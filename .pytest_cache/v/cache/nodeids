@@ -1,1 +1,3 @@
-[]
+[
+  "src/test_player.py::describe_choose_method::test_lets_you_choose_a_frame"
+]
