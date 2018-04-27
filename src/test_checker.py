@@ -17,5 +17,5 @@ def describe_win_check_that_will_pass():
     def test_returns_false_if_no_winning_combos():
         checker = Checker()
         player = Player()
-        player.choices = [1,2,3]
+        player.choices = [0,1,2]
         assert checker.win_check(player) == True

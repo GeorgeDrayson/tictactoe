@@ -2,6 +2,5 @@
   "src/test_checker.py::describe_choose_method::test_lets_you_choose_a_frame": true, 
   "src/test_checker.py::describe_choose_method::test_raises_error_if_outside_frame": true, 
   "src/test_checker.py::describe_win_check_with_non_winning_scores": true, 
-  "src/test_game.py": true, 
   "src/test_turn_checker.py::describe_thing": true
 }

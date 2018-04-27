@@ -1,6 +1,7 @@
 [
   "src/test_checker.py::describe_win_check_that_will_fail::test_returns_false_if_no_winning_combos", 
   "src/test_checker.py::describe_win_check_that_will_pass::test_returns_false_if_no_winning_combos", 
+  "src/test_game.py::describe_choose_method::test_calls_choose_on_player", 
   "src/test_player.py::describe_choose_method::test_lets_you_choose_a_frame", 
   "src/test_player.py::describe_choose_method::test_raises_error_if_outside_frame", 
   "src/test_turn_operator.py::describe_turn_rotator::test_starts_with_player1", 
